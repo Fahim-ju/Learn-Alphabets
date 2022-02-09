@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Learn Alphabets</string>
+
+    <string name="shareMessage">Please,Share App via Bluetooth</string>
+    <string name="authorMessage">Nahian Fahim (CSE,JU) </string>
+    <string name="contactMessage">Please, Search Author on Facebook</string>
+
     <string-array name="alphabets">
 
         <item>A</item>
